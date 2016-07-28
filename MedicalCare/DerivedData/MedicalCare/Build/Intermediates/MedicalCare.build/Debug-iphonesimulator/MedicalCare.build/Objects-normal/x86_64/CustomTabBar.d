@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Category/CustomTabBar.m \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/MedicalCare.pch \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Const.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Base/BaseViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/SmallView/SmallViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Utlity/Manager/NetManager.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Utlity/Alert.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Utlity/Position/MapPosition.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Category/CustomTabBar.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Classes/MyCenter/MyCenterViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Classes/HealthyView/HealthyViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Classes/LocationHospital/LocationHospitalViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Classes/FirstAid/FirstAidViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Classes/SearchDrug/SearchDrugViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Category/SmallView.h \
+  /Users/qianfeng/Desktop/CarProject/Commend/Category/TableInfo/MySetUp.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Category/MySetView/MySetViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/Base/NewViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/SmallView/Photoes/PhotoesViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/SmallView/Share/ShareViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/MedicalCare/Commend/SmallView/QQLogin/QQLoginViewController.h \
+  /Users/qianfeng/Desktop/MedicalCare/iOS_OpenSDK_2.9.5_all/TencentOpenAPI.framework/Headers/TencentOAuth.h \
+  /Users/qianfeng/Desktop/MedicalCare/iOS_OpenSDK_2.9.5_all/TencentOpenAPI.framework/Headers/sdkdef.h \
+  /Users/qianfeng/Desktop/MedicalCare/iOS_OpenSDK_2.9.5_all/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
